@@ -1,0 +1,3 @@
+﻿  MaxHeap.cpp
+C:\Users\flyin\Documents\School-Past_Classes\CS3220\MaxHeap\MaxHeap\MaxHeap.cpp(15,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MaxHeap.vcxproj -> C:\Users\flyin\Documents\School-Past_Classes\CS3220\MaxHeap\x64\Debug\MaxHeap.exe
