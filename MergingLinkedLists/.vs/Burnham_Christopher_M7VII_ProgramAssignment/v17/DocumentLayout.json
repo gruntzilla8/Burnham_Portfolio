@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\flyin\\Documents\\School-Past_Classes\\CS3210\\Burnham_Christopher_M7VII_ProgramAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B443998D-7753-4092-B515-B6CA7CB00542}|Burnham_Christopher_M7VII_ProgramAssignment\\Burnham_Christopher_M7VII_ProgramAssignment.vcxproj|C:\\Users\\flyin\\Documents\\School-Past_Classes\\CS3210\\Burnham_Christopher_M7VII_ProgramAssignment\\Burnham_Christopher_M7VII_ProgramAssignment\\Burnham_Christopher_M7VII_ProgramAssignment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B443998D-7753-4092-B515-B6CA7CB00542}|Burnham_Christopher_M7VII_ProgramAssignment\\Burnham_Christopher_M7VII_ProgramAssignment.vcxproj|solutionrelative:Burnham_Christopher_M7VII_ProgramAssignment\\Burnham_Christopher_M7VII_ProgramAssignment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Burnham_Christopher_M7VII_ProgramAssignment.cpp",
+              "DocumentMoniker": "C:\\Users\\flyin\\Documents\\School-Past_Classes\\CS3210\\Burnham_Christopher_M7VII_ProgramAssignment\\Burnham_Christopher_M7VII_ProgramAssignment\\Burnham_Christopher_M7VII_ProgramAssignment.cpp",
+              "RelativeDocumentMoniker": "Burnham_Christopher_M7VII_ProgramAssignment\\Burnham_Christopher_M7VII_ProgramAssignment.cpp",
+              "ToolTip": "C:\\Users\\flyin\\Documents\\School-Past_Classes\\CS3210\\Burnham_Christopher_M7VII_ProgramAssignment\\Burnham_Christopher_M7VII_ProgramAssignment\\Burnham_Christopher_M7VII_ProgramAssignment.cpp",
+              "RelativeToolTip": "Burnham_Christopher_M7VII_ProgramAssignment\\Burnham_Christopher_M7VII_ProgramAssignment.cpp",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAADwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-31T23:34:45.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
