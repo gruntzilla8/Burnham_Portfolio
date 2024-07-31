@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e80d6dad-091d-4262-8c2d-e6eb4b7f64b1": {
+      "ProjectGuid": "e80d6dad-091d-4262-8c2d-e6eb4b7f64b1",
+      "DisplayName": "BurnhamChristopher_M6_ProgrammingAssignment",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
