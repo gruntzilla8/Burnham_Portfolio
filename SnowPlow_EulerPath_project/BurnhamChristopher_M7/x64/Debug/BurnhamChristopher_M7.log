@@ -1,0 +1,4 @@
+﻿  BurnhamChristopher_M7.cpp
+C:\Users\flyin\Documents\CS3220\BurnhamChristopher_M7\BurnhamChristopher_M7\BurnhamChristopher_M7.cpp(213,9): warning C4101: 'y': unreferenced local variable
+C:\Users\flyin\Documents\CS3220\BurnhamChristopher_M7\BurnhamChristopher_M7\BurnhamChristopher_M7.cpp(212,9): warning C4101: 'x': unreferenced local variable
+  BurnhamChristopher_M7.vcxproj -> C:\Users\flyin\Documents\CS3220\BurnhamChristopher_M7\x64\Debug\BurnhamChristopher_M7.exe
